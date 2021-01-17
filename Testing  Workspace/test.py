@@ -51,7 +51,7 @@ age = 37
 
 #F-Strings (3.6+)
 
-#print(f'Hello! My name is {name} and I am {age}')
+->>>>>> #print(f'Hello! My name is {name} and I am {age}')
 '''
 
 
